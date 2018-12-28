@@ -1,0 +1,10 @@
+[
+  { "position": 9, "name": "Adam", "played": 1, "kills": 3 },
+  { "position": 9, "name": "Bob", "played": 1, "kills": 3 },
+  { "position": 9, "name": "Charles", "played": 3, "kills": 2 },
+  { "position": 9, "name": "Dennis", "played": 2, "kills": 2 },
+  { "position": 9, "name": "Eric", "played": 2, "kills": 2 },
+  { "position": 9, "name": "Fred", "played": 3, "kills": 3 },
+  { "position": 9, "name": "George", "played": 1, "kills": 3 },
+  { "position": 9, "name": "Henry", "played": 2, "kills": 8 }
+]
