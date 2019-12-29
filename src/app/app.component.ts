@@ -9,18 +9,6 @@ export interface LeaguePlayers {
   kills: number;
   killsratio?: number;
 }
-
-// const LEAGUE_DATA: LeaguePlayers[] = [
-//   { position: 9, name: 'Samuel', played: 1, kills: 3 },
-//   { position: 9, name: 'Adam', played: 2, kills: 2 },
-//   { position: 9, name: 'Ruzgar', played: 3, kills: 2 },
-//   { position: 9, name: 'Billy', played: 2, kills: 2 },
-//   { position: 9, name: 'Bobby', played: 2, kills: 2 },
-//   { position: 9, name: 'Charlie', played: 3, kills: 3 },
-//   { position: 9, name: 'Jeff', played: 1, kills: 3 },
-//   { position: 9, name: 'Mossue', played: 2, kills: 3 },
-// ];
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',

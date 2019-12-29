@@ -37,5 +37,5 @@
   </ng-container>
 
   <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-  <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns" [ngClass]="{'make-gold': row.position == 1,'make-silver': row.position == 2 ,'make-bronze': row.position == 3}"></tr>
 </table>

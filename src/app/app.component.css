@@ -4,3 +4,13 @@ table {
 * {
   font-family: 'Roboto', sans-serif;
 }
+
+.make-gold {
+  background-color: gold
+}
+.make-silver {
+  background-color: silver
+}
+.make-bronze {
+  background-color: chocolate
+}
